@@ -1,6 +1,6 @@
 # Wide-Le-Chat for Firefox
 
-Wide-Le-Chat is a Firefox add-on designed to enhance your browsing experience on GPT interfaces by widening the answer space, providing a more comfortable and visually appealing layout for reading responses.
+Wide-Le-Chat is a Firefox add-on designed to enhance your browsing experience on Le-Chat interfaces by widening the answer space, providing a more comfortable and visually appealing layout for reading responses.
 
 ## [-> Download on addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/wide-le-chat/)
 
@@ -33,8 +33,8 @@ Follow these steps to install Wide-Le-Chat in Firefox for local use:
     - Select the manifest.json file from the Wide-Le-Chat directory and click "Open" to install the add-on.
 
 4. Confirm Installation
-    - Wide-Le-Chat should now be listed among your active extensions. Ensure it is functioning by visiting a GPT interface and observing the widened answer space.
+    - Wide-Le-Chat should now be listed among your active extensions. Ensure it is functioning by visiting a Le-Chat interface and observing the widened answer space.
 
 Usage:
 
-Once Wide-Le-Chat is installed, visit any GPT-based interface in Firefox. The answer space should automatically be wider, enhancing readability and overall user experience. No additional user actions are required unless you wish to disable or remove the add-on.
+Once Wide-Le-Chat is installed, visit any Le-Chat-based interface in Firefox. The answer space should automatically be wider, enhancing readability and overall user experience. No additional user actions are required unless you wish to disable or remove the add-on.

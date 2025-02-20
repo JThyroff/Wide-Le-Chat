@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Wide-Le-Chat",
+  "version": "1.0",
+  "description": "Scale Le-Chat output to 100% width",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.chat.mistral.ai/*"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ]
+}

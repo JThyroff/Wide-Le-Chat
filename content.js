@@ -18,10 +18,12 @@ const attachStyleRule = (css) => {
 const adjustMaxWidth = () => {
     console.debug('Le-Chat.adjustMaxWidth() called');
 
-    // Define the CSS rule to override max-width for .max-w-screen-md
+    // Define the CSS rule to override max-width for .max-w-screen-md within a @layer utilities block
     const css = `
-        .max-w-screen-md {
-            max-width: 100% !important;
+        @layer utilities {
+            .max-w-\\(--breakpoint-md\\) {
+                max-width: 100% !important;
+            }
         }
     `;
     attachStyleRule(css);

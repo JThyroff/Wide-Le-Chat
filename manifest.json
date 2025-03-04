@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Wide-Le-Chat",
   "version": "1.1",
-  "description": "Scale Le-Chat output to 100% width",
+  "description": "Scale Le-Chat output to 100% width.",
   "permissions": [
     "activeTab"
   ],

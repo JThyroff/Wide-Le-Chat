@@ -5,6 +5,7 @@
 Wide-Le-Chat is a Firefox add-on designed to enhance your browsing experience on Le-Chat interfaces by widening the answer space, providing a more comfortable and visually appealing layout for reading responses.
 
 ## [-> Download on addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/wide-le-chat/)
+## [-> Download on chromewebstore.google.com](https://chromewebstore.google.com/detail/lnieonfoflkpkipjhabeibhbghmigokk?utm_source=item-share-cb)
 
 ### Technical
 

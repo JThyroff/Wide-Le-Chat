@@ -1,4 +1,4 @@
-# Wide-Le-Chat for Firefox
+# Wide-Le-Chat for Firefox and Chrome
 
 **NEW: Wide-Le-Chat is available for Google Chrome as well!**
 

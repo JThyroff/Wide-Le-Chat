@@ -7,6 +7,11 @@ Wide-Le-Chat is a Firefox add-on designed to enhance your browsing experience on
 ## [-> Download on addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/wide-le-chat/)
 ## [-> Download on chromewebstore.google.com](https://chromewebstore.google.com/detail/lnieonfoflkpkipjhabeibhbghmigokk?utm_source=item-share-cb)
 
+### Support my Work
+If you enjoy my projects, you can buy me a coffee!  
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://buymeacoffee.com/jojo_thy)
+
 ### Technical
 
 This plugin changes appearance only on chat.mistral.ai. See [manifest.json](manifest.json) for reference. 
